@@ -2,7 +2,7 @@
 
 ## Repositories
 
-- [自用Clash Verge Global Extend Script](https://github.com/Stephen-Xu-X/clash-verge-scripts)
+- [自用Clash Verge Global Extend Script](https://github.com/Stephen-Xu-X/clash-verge-scripts)  
   自用clash脚本
   
 - [bosszhipin_companyINFO](https://github.com/Stephen-Xu-X/bosszhipin_companyINFO)  
